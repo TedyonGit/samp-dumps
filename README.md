@@ -11,9 +11,10 @@
 - iReply(besically [Stealth Remastered](https://github.com/Stickey21/Stealth-Remastered/))
 - Andromeda
 - Dumnezeu.asi
-- Gangway v2
+- Gangway v2(besically [Stealth Remastered](https://github.com/Stickey21/Stealth-Remastered/))
 - Deluxe
 - Inacty(besically [Stealth Remastered](https://github.com/Stickey21/Stealth-Remastered/))
 - Stealth NAC version
 - MNB
 - RAZZER(besically [Stealth Remastered](https://github.com/Stickey21/Stealth-Remastered/))
+- Invictus v1 NAC version
