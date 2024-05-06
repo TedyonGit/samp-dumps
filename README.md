@@ -1,4 +1,11 @@
-# samp-dumps
+
+<div align="center">
+  <br>
+ <h1>SAMP-DUMPS</h1>
+  <br>
+  <br>
+</div>
+
 
 # !! I don't take any responsibility for your actions !!
 
