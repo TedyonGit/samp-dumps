@@ -7,9 +7,11 @@
 </div>
 
 
-# !! I don't take any responsibility for your actions !!
-
-## This repository contains samp-cheats and their idb(source code decompiled). They might or they might not be reversed at all, but if you have free time to reverse them, you can fell free to send a pull request.
+<div align="center">
+  <h1>!! I don't take any responsibility for your actions !!</h1>
+  
+  <h3>This repository contains samp-cheats and their idb(source code decompiled). They might or they might not be reversed at all, but if you have free time to reverse them, you can fell free to send a pull request.</h3>
+</div>
 
 
 # Repo:
